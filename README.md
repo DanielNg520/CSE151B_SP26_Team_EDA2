@@ -27,7 +27,7 @@ The notebook runs on Kaggle. Attach the public dataset **`alanj21/dataset1`** as
 |---|---|
 | `judger.py` | scoring logic |
 | `utils.py` | utilities |
-| `private2.jsonl` | private test questions |
+| `private.jsonl` | private test questions |
 | `checkpoint_private.jsonl` | pre-computed checkpoint (skips completed questions) |
 
 No other datasets need to be attached.
